@@ -1,6 +1,6 @@
 # InterMED
 
-**Criada para agilizar, a InterMED veio para te ajudar!!**
+**Criada para agilizar, a InterMED veio para te ajudar!!!**
 
 ![Logo_InterMED](https://user-images.githubusercontent.com/84099050/188284248-8d5caaf4-79cb-4630-b1c9-3967a354be10.png)
 
