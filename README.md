@@ -8,9 +8,9 @@
 
 + [Cenário de Negócio da InterMED](https://github.com/LuanaTonieti/InterMED/wiki/Cen%C3%A1rio-de-Neg%C3%B3cio)
 
-+ [Protótipo App](https://github.com/LuanaTonieti/InterMED/wiki/Prot%C3%B3tipo-App)
++ [Protótipo do App](https://github.com/LuanaTonieti/InterMED/wiki/Prot%C3%B3tipo-App)
 
-+ [Protótipo Site](https://github.com/LuanaTonieti/InterMED/wiki/Prot%C3%B3tipo-Site)
++ [Protótipo do Site](https://github.com/LuanaTonieti/InterMED/wiki/Prot%C3%B3tipo-Site)
 
 
 Projeto feito nas aulas de Engenharia de Software (CC5511).
