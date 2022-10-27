@@ -12,6 +12,12 @@
 
 + [Protótipo do Site](https://github.com/LuanaTonieti/InterMED/wiki/Prot%C3%B3tipo-Site)
 
++ [Diagramas de Casos de Uso](https://github.com/LuanaTonieti/InterMED/wiki/Diagramas-de-Casos-de-Uso)
+
++ [Especificação do Caso de Uso 1](https://github.com/LuanaTonieti/InterMED/wiki/Especifica%C3%A7%C3%A3o-do-Caso-de-Uso-1)
+
++ [Especificação do Caso de Uso 6](https://github.com/LuanaTonieti/InterMED/wiki/Especifica%C3%A7%C3%A3o-do-Caso-de-Uso-6)
+
 
 Projeto feito nas aulas de Engenharia de Software (CC5511).
 
